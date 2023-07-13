@@ -6,3 +6,4 @@ CREATE TABLE IF NOT EXISTS users (
     name VARCHAR(255),
     country VARCHAR(255) ENUM('US', 'CO', 'TN') DEFAULT 'US' NOT NULL
 )
+
