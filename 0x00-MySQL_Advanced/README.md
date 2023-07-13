@@ -23,3 +23,6 @@
 ### [2. Best band ever!](./2-fans.sql)
 ### [3. Old school band](./3-glam_rock.sql)
 ### [4. Buy buy buy](./4-store.sql)
+### [5. Email validation to sent](./5-valid_email.sql)
+### [6. Add bonus](./6-bonus.sql)
+
