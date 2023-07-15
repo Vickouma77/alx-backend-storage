@@ -8,6 +8,3 @@ This repository contains the code for the backend storage project.
 
 -mysql
 -python
--flask
--flask_cors
--flask_sqlalchemy
