@@ -13,4 +13,4 @@ def schools_by_topic(mongo_collection, topic):
     """
     if not mongo_collection:
         return None
-    return mongo_collection.find({"topic": "topic"})
+    return mongo_collection.find({"topic": "topic"}).sort("name")
