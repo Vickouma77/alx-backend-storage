@@ -8,4 +8,5 @@ This repository contains the code for the backend storage project.
 
 * Mysql
 * MongoDB
+* NoSQL
 * python
